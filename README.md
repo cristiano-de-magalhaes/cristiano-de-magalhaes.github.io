@@ -9,6 +9,7 @@ Technical Skills: `Python` / `R`, `SQL`, `AWS`, `Matlab` / `Octave`
 ## Work
 ### Digital Transformation Specialist @ VLI Logística (sep.2021 - present)
 * Digital Leader in Permanent Way Condition-Based Maintenance project
+  * Delivering at least R$ 1.8M in cost avoidance in 2025, R$ 7.5M in 2026, R$ 18.5M in 2027 and R$ 28M per year from 2028
 * Digital Leader in
 
 ### Technology Analyst Senior @ SENAI FIEMG's 4.0 Center (jan.2021 - aug.2021)
