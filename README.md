@@ -20,7 +20,8 @@ Main technical skills (hard skills): `Python` / `R`, `SQL`, `AWS`, `Matlab` / `O
 
 **VLI Logística**
 
-- Management and monitoring of various projects, performing functions according to the team's needs and project scope (digital leader, technical leader, product owner, scrum master, etc.). Creation of reports in various formats (Power BI dashboards, Excel dashboards, PowerPoint presentations) generated from data extracted from Excel, .csv files from various sources, the Stratws platform, SAP, SAP Hana, SAP Fieldglass, Azure DevOps, legacy internal systems, etc. Creation of roadmaps for programs, projects, and innovation, research, and development initiatives. Planning, structuring, and defending budgets for projects. Presentations at technical (for staff), operational (for supervisors), managerial (for managers), and executive (for general managers and directors) levels of projects, metrics, and results. Acting as a digital leader in a condition-based maintenance project with the prospect of a direct impact on reducing the budget required for maintenance in the order of R$1.5M in 2025; R$7.5M in 2026; R$18.5M in 2027; and R$28M p.a. from 2028. Constant interaction with suppliers (domestic and international) to monitor project progress, interface with technical teams to resolve issues and facilitate processes with different areas of the company. Assistance in defining master data, support for data owners and data stewards in the company's data-driven transformation journey, facilitating access to the data lake, data warehouse and data 'lakehouse' governance team. Facilitating access to the team responsible for Azure Synapse Analytics to create the pipelines necessary to automate data ingestion. Other administrative, managerial and operational activities in the area, as well as conducting processes, working directly via Teams, email or telephone, to ensure compliance with the SLA for all stakeholders.
+- Management and monitoring of various projects, performing functions according to the team's needs and project scope (digital leader, technical leader, product owner, scrum master, etc.). Creation of reports in various formats (Power BI dashboards, Excel dashboards, PowerPoint presentations) generated from data extracted from Excel, .csv files from various sources, the Stratws platform, SAP, SAP Hana, SAP Fieldglass, Azure DevOps, legacy internal systems, etc. Creation of roadmaps for programs, projects, and innovation, research, and development initiatives. Planning, structuring, and defending budgets for projects. Presentations at technical (for staff), operational (for supervisors), managerial (for managers), and executive (for general managers and directors) levels of projects, metrics, and results. Acting as a digital leader in a condition-based maintenance project with the prospect of a direct impact on reducing the budget required for maintenance in the order of R$1.5M in 2025; R$7.5M in 2026; R$18.5M in 2027; and R$28M per year from 2028. Constant interaction with suppliers (domestic and international) to monitor project progress, interface with technical teams to resolve issues and facilitate processes with different areas of the company. Assistance in defining master data, support for data owners and data stewards in the company's data-driven transformation journey, facilitating access to the data lake, data warehouse and data 'lakehouse' governance team. Facilitating access to the team responsible for Azure Synapse Analytics to create the pipelines necessary to automate data ingestion. Other administrative, managerial and operational activities in the area, as well as conducting processes, working directly via Teams, email or telephone, to ensure compliance with the SLA for all stakeholders.
+
 ### Graduate Program Professor
 
 **February/2022 - present** (3 years and 2 months)
@@ -46,6 +47,7 @@ Main technical skills (hard skills): `Python` / `R`, `SQL`, `AWS`, `Matlab` / `O
 - Fab Manager.
 
 ### Others
+
 - **Internship**: Jan.2018 – Jun.2018 (6 months) – Mult-Vídeo  
 - **Summer Internship**: Jul.2017 – Sep.2017 (2 months) – General Electrics (GE) – Industrial Solution – Lean Challenge  
 - **Internship**: Jan.2017 – Jun.2017 (6 months) – Stellantis (formerly FCA) Group: ISVOR Division  
@@ -96,6 +98,8 @@ Main technical skills (hard skills): `Python` / `R`, `SQL`, `AWS`, `Matlab` / `O
 (versão em português [pt-br])
 
 # Cientista de Dados & Especialista em Transformação Digital
+
+[(return to english version)](#data-scientist--digital-transformation-specialist)
 
 Principais habilidades técnicas (_hard skills_): `Python` / `R`, `SQL`, `AWS`, `Matlab` / `Octave`, `C` / `C++` / `Java`, `git`.
 
